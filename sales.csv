@@ -1,0 +1,6 @@
+date,store_id,product_id,units_sold,unit_price,category
+2026-01-15,S001,P101,10,15.0,Electronics
+2026-01-20,S002,P102,5,50.0,Home & Kitchen
+2026-02-05,S001,P103,8,25.0,Electronics
+2026-02-12,S003,P101,12,15.0,Electronics
+2026-03-01,S002,P104,3,120.0,Home & Kitchen
